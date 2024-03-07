@@ -1,0 +1,15 @@
+C:\Users\David\OneDrive\Dokumente\Unity\ProvCasino\ProvCasino\bin\Debug\net6.0\ProvCasino.exe
+C:\Users\David\OneDrive\Dokumente\Unity\ProvCasino\ProvCasino\bin\Debug\net6.0\ProvCasino.deps.json
+C:\Users\David\OneDrive\Dokumente\Unity\ProvCasino\ProvCasino\bin\Debug\net6.0\ProvCasino.runtimeconfig.json
+C:\Users\David\OneDrive\Dokumente\Unity\ProvCasino\ProvCasino\bin\Debug\net6.0\ProvCasino.dll
+C:\Users\David\OneDrive\Dokumente\Unity\ProvCasino\ProvCasino\bin\Debug\net6.0\ProvCasino.pdb
+C:\Users\David\OneDrive\Dokumente\Unity\ProvCasino\ProvCasino\obj\Debug\net6.0\ProvCasino.csproj.AssemblyReference.cache
+C:\Users\David\OneDrive\Dokumente\Unity\ProvCasino\ProvCasino\obj\Debug\net6.0\ProvCasino.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\OneDrive\Dokumente\Unity\ProvCasino\ProvCasino\obj\Debug\net6.0\ProvCasino.AssemblyInfoInputs.cache
+C:\Users\David\OneDrive\Dokumente\Unity\ProvCasino\ProvCasino\obj\Debug\net6.0\ProvCasino.AssemblyInfo.cs
+C:\Users\David\OneDrive\Dokumente\Unity\ProvCasino\ProvCasino\obj\Debug\net6.0\ProvCasino.csproj.CoreCompileInputs.cache
+C:\Users\David\OneDrive\Dokumente\Unity\ProvCasino\ProvCasino\obj\Debug\net6.0\ProvCasino.dll
+C:\Users\David\OneDrive\Dokumente\Unity\ProvCasino\ProvCasino\obj\Debug\net6.0\refint\ProvCasino.dll
+C:\Users\David\OneDrive\Dokumente\Unity\ProvCasino\ProvCasino\obj\Debug\net6.0\ProvCasino.pdb
+C:\Users\David\OneDrive\Dokumente\Unity\ProvCasino\ProvCasino\obj\Debug\net6.0\ProvCasino.genruntimeconfig.cache
+C:\Users\David\OneDrive\Dokumente\Unity\ProvCasino\ProvCasino\obj\Debug\net6.0\ref\ProvCasino.dll
